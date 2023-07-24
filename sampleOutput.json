@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "InStyle"
+            },
+            "author": "Alicia Brunker",
+            "title": "Jennifer Lopez Just Committed a Very Public Fashion Faux Pas - Yahoo Lifestyle",
+            "description": "It's happened to the best of us.",
+            "url": "https://www.instyle.com/celebrity/jennifer-lopez/jennifer-lopez-fashion-faux-pas-dolce-gabbana-show",
+            "urlToImage": "https://imagesvc.meredithcorp.io/v3/mm/image?q=85&c=sc&rect=272%2C64%2C1272%2C564&poi=face&w=1681&h=841&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F14%2F2021%2F08%2F30%2FGettyImages-1337106911.jpg",
+            "publishedAt": "2021-08-30T11:42:06Z",
+            "content": "Jennifer Lopez looked positively regal on her way to Dolce &amp; Gabbana's fashion show in Venice last night. She represented the brand in a jewel-encrusted corset, high-waisted floral pants, and a c… [+1280 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Matthew J. Belvedere",
+            "title": "5 things to know before the stock market opens Monday - CNBC",
+            "description": "U.S. stock futures rose slightly Monday after the S&P 500 and Nasdaq closed at record highs Friday.",
+            "url": "https://www.cnbc.com/2021/08/30/5-things-to-know-before-the-stock-market-opens-monday-aug-30.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106928948-1629201087639-gettyimages-1234723283-AA_17082021_440752.jpg?v=1629201098",
+            "publishedAt": "2021-08-30T11:27:56Z",
+            "content": "Here are the most important news, trends and analysis that investors need to start their trading day:\r\n1. S&amp;P 500, Nasdaq set to add to records with two days left in August\r\nTourists are lined up… [+3942 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "6 AM update: New Orleans to still feel the impacts of Tropical Storm Ida - WWLTV",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9OXdmZS1oYWdsNG_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2021-08-30T11:19:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Jim Salter",
+            "title": "Linux/BSD command line wizardry: Learn to think in sed, awk, and grep - Ars Technica",
+            "description": "\"Do people really write these long, convoluted commands?\" In a word: yes.",
+            "url": "https://arstechnica.com/gadgets/2021/08/linux-bsd-command-line-101-using-awk-sed-and-grep-in-the-terminal/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2021/08/GettyImages-950753248-760x380.jpg",
+            "publishedAt": "2021-08-30T11:15:33Z",
+            "content": "56 with 42 posters participating, including story author\r\nAs a relatively isolated junior sysadmin, I remember seeing answers on Experts Exchange and later Stack Exchange that baffled me. Authors and… [+5767 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Farah Hannoun",
+            "title": "Jake Paul declares himself the 'new face of the fight game' after Tyron Woodley win - MMA Junkie",
+            "description": "After selling out 16,000 seats, it’s clear YouTube star Jake Paul is also a combat sports star.",
+            "url": "https://mmajunkie.usatoday.com/2021/08/jake-paul-declares-himself-new-face-of-fight-game-after-tyron-woodley-win-boxing-mma-ufc-video",
+            "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2021/08/tyron-woodley-vs-jake-paul-4.jpg?w=1024&h=576&crop=1",
+            "publishedAt": "2021-08-30T11:00:53Z",
+            "content": "CLEVELAND After selling out 16,000 seats, it’s clear YouTube star Jake Paul is also a combat sports star.\r\nPaul notched his fourth professional win as a boxer when he outpointed former UFC welterweig… [+1362 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Rachel Elbaum, Alex Johnson",
+            "title": "Ida weakens to tropical storm after knocking out power to New Orleans - NBC News",
+            "description": "Officials warned of “life-threatening” floods early Monday after Hurricane Ida crashed into Louisiana and knocked out power to more than 1 million.",
+            "url": "https://www.nbcnews.com/news/weather/hurricane-ida-knocks-out-power-new-orleans-may-bring-life-n1277981",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/newscms/2021_34/3502163/210828-ida-1x1-mb-1546.gif",
+            "publishedAt": "2021-08-30T10:35:39Z",
+            "content": "Hurricane Ida weakened to a tropical storm Monday after crashing into Louisiana and knocking out power to more than 1 million homes and businesses including the city of New Orleans.\r\nOfficials earlie… [+5148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NOLA.com"
+            },
+            "author": "JEFF ADELSON | Staff writer",
+            "title": "How long will power be out in metro New Orleans? Entergy says it will assess damage Monday - NOLA.com",
+            "description": "A massive tower collapsed into the Mississippi River near Avondale during the storm.",
+            "url": "https://www.nola.com/news/hurricane/article_dd8af4fe-095c-11ec-95eb-c70a067c2932.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/d/6e/d6e8f72a-0972-11ec-8960-f3506ebd775e/612ca1f8936f6.image.jpg?resize=919%2C630",
+            "publishedAt": "2021-08-30T10:35:00Z",
+            "content": "It will likely take days to determine the extent of damage to Entergy's power grid in metro New Orleans and far longer to restore electrical transmission to the region, company executives said early … [+3432 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Pats Pulpit"
+            },
+            "author": "Pat Lane",
+            "title": "10 takeaways from the Patriots’ preseason win over the Giants - Pats Pulpit",
+            "description": "Related: Instant analysis from Patriots’ 22-20 preseason win over Giants",
+            "url": "https://www.patspulpit.com/2021/8/30/22647869/10-takeaways-patriots-cam-newton-mac-jones-rhamondre-stevenson-gunner-olszewski-shaun-wade",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/h5Rw59oHB2hXkdBlmuaLc6pdbI8=/0x181:2067x1263/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22813853/1337141253.jpg",
+            "publishedAt": "2021-08-30T10:00:00Z",
+            "content": "The New England Patriots finished out the preseason with a 22-20 win on the road against the New York Giants. And while were all happy that the preseason is finally over, there was quite a bit to tak… [+7042 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Andrew Tangel",
+            "title": "United Jets With Engines in Denver Incident May Not Fly Until Next Year - The Wall Street Journal",
+            "description": "Federal regulators are weighing additional safeguards for some of the airline’s Boeing 777s after a February engine incident over Colorado",
+            "url": "https://www.wsj.com/articles/united-jets-with-engines-in-denver-incident-may-not-fly-until-next-year-11630315801",
+            "urlToImage": "https://images.wsj.net/im-391646/social",
+            "publishedAt": "2021-08-30T09:30:00Z",
+            "content": "Dozens of United Airlines Holdings Inc. jets like the one that lost an engine cover over Colorado in February arent expected to fly until early next year, as federal regulators weigh additional safeg… [+1232 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Joe Sutton and Hollie Silverman, CNN",
+            "title": "Hospital patients are being evacuated as the rapidly growing Caldor Fire edges closer to California's Lake Tahoe region - CNN",
+            "description": "The raging Caldor Fire in Northern California prompted evacuation orders and warnings in the Lake Tahoe Basin Sunday night after fire conditions resulted in rapid spread, causing at least one hospital to transfer all of its patients out amid the flames.",
+            "url": "https://www.cnn.com/2021/08/30/weather/western-wildfires-monday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210830021720-01-caldor-fire-california-0829-super-tease.jpg",
+            "publishedAt": "2021-08-30T09:22:00Z",
+            "content": "(CNN)The raging Caldor Fire in Northern California prompted evacuation orders and warnings in the Lake Tahoe Basin Sunday night after fire conditions resulted in rapid spread, causing at least one ho… [+4830 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Thomas Ricker",
+            "title": "Clubhouse embraces spatial audio for more lifelike conversations - The Verge",
+            "description": "Clubhouse’s implementation of spatial audio first assigns a specific position to each speaker and then evenly distributes them around a room. It then applies HRTFs, or head related transfer functions, similar to what we’ve seen used by Microsoft in the HoloLe…",
+            "url": "https://www.theverge.com/2021/8/30/22648050/clubhouse-spatial-audio-3d-360-sound",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/tdq0c_OD9IPGG2bFE8eMdiRqLjk=/0x228:1024x764/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22814386/Leah_Full.png",
+            "publishedAt": "2021-08-30T09:12:59Z",
+            "content": "Speakers are distributed in 3D space just like the real world\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nLeah Lamarr is currently featured as… [+1696 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "",
+            "title": "Biden honors US service members killed in Kabul - NPR",
+            "description": "This was Biden's first visit as president to honor dead service members and comfort their relatives. The fallen service members included 11 Marines, an Army soldier and a member of the Navy.",
+            "url": "https://www.npr.org/2021/08/30/1032258906/biden-honors-u-s-service-members-killed-in-kabul",
+            "urlToImage": "https://media.npr.org/assets/img/2021/08/29/gettyimages-1234942148---biden---distinguished-transfer_wide-de5039b2dd0845ccb2e91302cd255153dba25b32.jpg?s=1400",
+            "publishedAt": "2021-08-30T09:00:57Z",
+            "content": "President Biden attends the dignified transfer of the remains of a fallen service member at Dover Air Force Base in Dover, Delaware, August, 29, 2021.\r\nSAUL LOEB/AFP via Getty Images\r\nDOVER, Del. As … [+3561 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": null,
+            "title": "After A COVID Death, Others' Blame And Shame Make Grief Even Worse : Shots - Health News - NPR",
+            "description": "After their brother died, two sisters faced down a barrage of misinformation, pandemic denialism, and blaming questions. Grief experts say that makes COVID the newest kind of \"disenfranchised death.\"",
+            "url": "https://www.npr.org/sections/health-shots/2021/08/30/1011785899/when-covid-deaths-are-dismissed-or-stigmatized-grief-is-mixed-with-shame-and-ang",
+            "urlToImage": "https://media.npr.org/assets/img/2021/08/27/stephanie-kyle_wide-fc6259aea19903627e164778e70d53a6a327d0c3.jpg?s=1400",
+            "publishedAt": "2021-08-30T09:00:56Z",
+            "content": "Stephanie Rimel looks at a photo of her brother Kyle Dixon, who died of the coronavirus on Jan. 20, 2021 at the age of 27. She says that during Kyle's illness and after his death, some acquaintances … [+9356 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Erin Griffith, Erin Woo",
+            "title": "Schemer or Naïf? The Trial of Elizabeth Holmes - The New York Times",
+            "description": "The trial for the founder of Theranos, the once high-flying blood testing start-up, will cap a saga of Silicon Valley hubris, ambition and deception.",
+            "url": "https://www.nytimes.com/2021/08/30/technology/trial-elizabeth-holmes-theranos.html",
+            "urlToImage": "https://static01.nyt.com/images/2021/08/30/business/30holmes-walkup/30holmes-walkup-facebookJumbo-v2.jpg",
+            "publishedAt": "2021-08-30T09:00:19Z",
+            "content": "But if Ms. Holmes takes the stand, prosecutors could use past statements to hurt her credibility. In a Securities and Exchange Commission deposition in 2017, she responded to questions by saying I do… [+1329 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "By Sugam Pokharel, Aya Elamroussi and Saskya Vandoorne, CNN",
+            "title": "EU to recommend reinstating Covid-related travel restrictions on US, reports say - CNN",
+            "description": "The European Union is expected to recommend on Monday that member states reinstate Covid-related travel restrictions and halt nonessential travel from the United States and five other countries, a diplomatic source told CNN on Monday.",
+            "url": "https://www.cnn.com/travel/article/eu-travel-restrictions-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210830020830-02-eu-covid-travel-restrictions-super-tease.jpg",
+            "publishedAt": "2021-08-30T08:07:58Z",
+            "content": "(CNN) The European Union is expected to recommend on Monday that member states reinstate Covid-related travel restrictions and halt nonessential travel from the United States and five other countries… [+2461 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amanda Sealy and Hollie Silverman, CNN",
+            "title": "100,000 more people could die by December, Fauci says. But it is still possible to turn it around - CNN",
+            "description": "With nearly 100,000 Americans hospitalized with Covid-19 and infections surging among the unvaccinated population, it's possible another 100,000 people could die from the virus by December, according to a recent University of Washington model.",
+            "url": "https://www.cnn.com/2021/08/30/health/us-coronavirus-monday/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210829233546-01-us-coronavirus-monday-0830-super-tease.jpg",
+            "publishedAt": "2021-08-30T07:59:00Z",
+            "content": "(CNN)With nearly 100,000 Americans hospitalized with Covid-19 and infections surging among the unvaccinated population, it's possible another 100,000 people could die from the virus by December, acco… [+6213 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNET"
+            },
+            "author": "Andrew Hoyle",
+            "title": "5 exciting phones to look out for this year: iPhone 13, Galaxy S22, Pixel 6 and more - CNET",
+            "description": "We can't wait to see these upcoming smartphones from Apple, Samsung, Google and Microsoft.",
+            "url": "https://www.cnet.com/tech/mobile/5-exciting-phones-to-look-out-for-this-year-iphone-13-galaxy-s22-pixel-6-more/",
+            "urlToImage": "https://www.cnet.com/a/img/GMAXm_j5sSaGhJIYTbWF3XP1Oyc=/1200x630/2021/08/04/b73921a5-25b6-4b22-a5aa-b7dbcd30bba6/iphone-ios-15-2021-cnet-09.jpg",
+            "publishedAt": "2021-08-30T07:00:04Z",
+            "content": "Technizo Concept in collaboration with LetsGoDigital\r\nPhone fans, start your engines. We're anticipating some exciting new reveals this fall from Apple, Samsung, Google and more. Are we pumped for th… [+7396 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Catherine Garcia, Night editor",
+            "title": "In 'deeply troubling' move, North Korea appears to have restarted plutonium-producing reactor - Yahoo News",
+            "description": "In 'deeply troubling' move, North Korea appears to have restarted plutonium-producing reactor",
+            "url": "https://news.yahoo.com/deeply-troubling-move-north-korea-060321841.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/9UcCRNdHtLrF_nxhFvKA_Q--~B/aD00NzU7dz04NDU7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/the_week_574/9f8886543c1395c984bb29c1532fc992",
+            "publishedAt": "2021-08-30T06:18:24Z",
+            "content": "Kim Jong Un on a television screen. Jung Yeon-Je/AFP via Getty Images \r\nNorth Korea appears to have restarted its Yongbyon reactor, which produces plutonium and was likely shut down in December 2018,… [+1975 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gulte"
+            },
+            "author": "Satya",
+            "title": "New Zealand reports first death due to COVID-19 vaccine - New Zealand - Gulte",
+            "description": "New Zealand was one of the first countries to declare itself as COVID-19 free and lifted all the lockdown restrictions in mid-2020. However, it couldn't stay away from the virus outbreak for a long time as the country is being troubled by the Delta variant no…",
+            "url": "https://www.gulte.com/trends/114266/new-zealand-reports-first-death-due-to-covid-19-vaccine",
+            "urlToImage": "https://cdn.gulte.com/wp-content/uploads/2021/08/corona-vaccine-660x330.jpg",
+            "publishedAt": "2021-08-30T06:13:52Z",
+            "content": "New Zealand was one of the first countries to declare itself as COVID-19 free and lifted all the lockdown restrictions in mid-2020. However, it couldn’t stay away from the virus outbreak for a long t… [+1082 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Cheryl Teh",
+            "title": "Rand Paul claims scientists won't study horse deworming drug ivermectin's use as a potential COVID cure because of their 'hatred for Trump' - Yahoo News",
+            "description": "The FDA and CDC have warned people not to use ivermectin, a deworming drug for livestock, because of its deadly side effects.",
+            "url": "https://www.businessinsider.com/rand-paul-scientists-wont-study-ivermectin-covid-cure-hatred-trump-2021-8",
+            "urlToImage": "https://i.insider.com/612c4e0812b9cc001963470c?width=1200&format=jpeg",
+            "publishedAt": "2021-08-30T05:38:32Z",
+            "content": "Kentucky Sen. Rand Paul claimed that researchers won't study the toxic livestock-deworming drug ivermectin as a potential COVID treatment because of their dislike for former President Donald Trump. \r… [+2360 chars]"
+        }
+    ]
+}
